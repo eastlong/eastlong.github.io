@@ -3,7 +3,14 @@
   <entry>
     <title>start</title>
     <url>/2020/02/13/start/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="hexo使用"><a href="#hexo使用" class="headerlink" title="hexo使用"></a>hexo使用</h1><ol>
+<li>部署到github<figure class="highlight sh"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 部署</span></span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>技巧</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
